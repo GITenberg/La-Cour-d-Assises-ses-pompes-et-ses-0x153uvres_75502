@@ -1,0 +1,39 @@
+_repo: La-Cour-d-Assises-ses-pompes-et-ses-0x153uvres_75502
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Grillon, Roger
+    gutenberg_agent_id: '58029'
+    url: http://www.gutenberg.org/2009/agents/58029
+creator:
+  author:
+    agent_name: Benjamin, René
+    alias: Benjamin, Rene
+    birthdate: 1885
+    deathdate: 1948
+    gutenberg_agent_id: '56924'
+    url: http://www.gutenberg.org/2009/agents/56924
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ren%C3%A9_Benjamin
+    - https://fr.wikipedia.org/wiki/Ren%C3%A9_Benjamin
+description: ''
+gutenberg_issued: '2025-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75502'
+language: fr
+pgterms:marc904: https://polona.pl/preview/93548956-48ab-4f5b-bb6c-076d58a0fcf9
+pgterms:marc905: 20240210005431benjamin
+pgterms:marc906: '1928'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Polona digital
+  library)
+publication_note: '  $aParis :$bArthème Fayard, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La Cour d'Assises, ses pompes et ses œuvres
+url: http://www.gutenberg.org/ebooks/75502
