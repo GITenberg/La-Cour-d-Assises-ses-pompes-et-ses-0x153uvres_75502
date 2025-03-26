@@ -5,6 +5,9 @@ contributor:
     agent_name: Grillon, Roger
     gutenberg_agent_id: '58029'
     url: http://www.gutenberg.org/2009/agents/58029
+covers:
+- cover_type: archival
+  image_path: 75502-h/images/cover.jpg
 creator:
   author:
     agent_name: Benjamin, René
@@ -17,6 +20,8 @@ creator:
     - https://en.wikipedia.org/wiki/Ren%C3%A9_Benjamin
     - https://fr.wikipedia.org/wiki/Ren%C3%A9_Benjamin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75502#La-Cour-d-Assises-ses-pompes-et-ses-0x153uvres
 gutenberg_issued: '2025-03-02'
 gutenberg_type: Text
 identifiers:
